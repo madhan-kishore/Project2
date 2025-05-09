@@ -1,0 +1,401 @@
+txn_id,account_no,amount,status,date,city,branch_name,product
+T3800,51309,4867.75,success,2025-05-04,bangalore,branch3,Insurance
+T3801,75844,3955.56,success,2025-05-06,bangalore,branch3,Loan
+T3802,41958,8140.74,success,2025-05-04,bangalore,branch3,Insurance
+T3803,14241,4793.97,success,2025-05-07,bangalore,branch3,Mutual Fund
+T3804,67707,8810.9,failed,2025-05-07,bangalore,branch3,Mutual Fund
+T3805,83727,7964.16,success,2025-05-07,bangalore,branch3,Insurance
+T3806,83579,7355.58,failed,2025-05-02,bangalore,branch3,Insurance
+T3807,97667,3693.02,failed,2025-05-04,bangalore,branch3,Insurance
+T3808,56429,4310.9,success,2025-05-06,bangalore,branch3,Loan
+T3809,11579,3180.45,failed,2025-05-02,bangalore,branch3,Mutual Fund
+T3810,53182,2159.41,success,2025-05-07,bangalore,branch3,Savings
+T3811,95110,2732.36,failed,2025-05-02,bangalore,branch3,Insurance
+T3812,93468,6602.56,failed,2025-05-06,bangalore,branch3,Loan
+T3813,10405,9359.48,success,2025-05-01,bangalore,branch3,Savings
+T3814,78362,2345.58,failed,2025-05-07,bangalore,branch3,Insurance
+T3815,68277,9986.45,failed,2025-05-03,bangalore,branch3,Savings
+T3816,11522,2098.41,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T3817,11690,6387.61,failed,2025-05-03,bangalore,branch3,Insurance
+T3818,81144,1310.3,success,2025-05-07,bangalore,branch3,Loan
+T3819,66547,2569.98,success,2025-05-01,bangalore,branch3,Loan
+T3820,37512,179.47,success,2025-05-04,bangalore,branch3,Mutual Fund
+T3821,33993,6570.1,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T3822,44391,8016.74,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T3823,36241,3765.97,failed,2025-05-03,bangalore,branch3,Savings
+T3824,61364,3489.53,failed,2025-05-01,bangalore,branch3,Insurance
+T3825,25244,1146.55,success,2025-05-04,bangalore,branch3,Mutual Fund
+T3826,48531,3694.28,failed,2025-05-02,bangalore,branch3,Loan
+T3827,16118,3490.22,success,2025-05-02,bangalore,branch3,Insurance
+T3828,64991,9579.38,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T3829,41486,4013.83,success,2025-05-04,bangalore,branch3,Loan
+T3830,88986,5906.76,failed,2025-05-02,bangalore,branch3,Savings
+T3831,52365,6220.94,success,2025-05-04,bangalore,branch3,Mutual Fund
+T3832,33130,5093.86,failed,2025-05-07,bangalore,branch3,Insurance
+T3833,16019,9520.01,failed,2025-05-07,bangalore,branch3,Loan
+T3834,83102,7228.87,success,2025-05-01,bangalore,branch3,Loan
+T3835,59478,7634.52,failed,2025-05-02,bangalore,branch3,Mutual Fund
+T3836,78728,7410.3,success,2025-05-02,bangalore,branch3,Loan
+T3837,17912,5821.59,failed,2025-05-07,bangalore,branch3,Savings
+T3838,45800,8264.82,success,2025-05-06,bangalore,branch3,Mutual Fund
+T3839,73153,4503.97,failed,2025-05-01,bangalore,branch3,Insurance
+T3840,69864,9725.92,success,2025-05-02,bangalore,branch3,Savings
+T3841,85923,2655.55,failed,2025-05-04,bangalore,branch3,Savings
+T3842,77574,4444.04,failed,2025-05-05,bangalore,branch3,Insurance
+T3843,88891,1604.02,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T3844,52696,1186.35,failed,2025-05-03,bangalore,branch3,Loan
+T3845,95729,6269.0,failed,2025-05-02,bangalore,branch3,Insurance
+T3846,78636,1625.67,success,2025-05-02,bangalore,branch3,Insurance
+T3847,38181,2769.36,success,2025-05-04,bangalore,branch3,Savings
+T3848,23589,6573.32,failed,2025-05-01,bangalore,branch3,Insurance
+T3849,32937,8280.45,success,2025-05-02,bangalore,branch3,Loan
+T3850,10452,7902.92,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T3851,62435,9355.58,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T3852,28969,3032.82,success,2025-05-04,bangalore,branch3,Savings
+T3853,89825,2770.01,failed,2025-05-07,bangalore,branch3,Loan
+T3854,92094,5276.33,success,2025-05-06,bangalore,branch3,Mutual Fund
+T3855,80067,6597.57,failed,2025-05-03,bangalore,branch3,Insurance
+T3856,46845,3189.67,success,2025-05-06,bangalore,branch3,Mutual Fund
+T3857,71742,6254.77,failed,2025-05-03,bangalore,branch3,Insurance
+T3858,78573,5959.54,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T3859,58530,7969.22,failed,2025-05-04,bangalore,branch3,Savings
+T3860,10011,9907.87,failed,2025-05-03,bangalore,branch3,Savings
+T3861,49969,4117.02,success,2025-05-06,bangalore,branch3,Insurance
+T3862,49227,8227.94,success,2025-05-02,bangalore,branch3,Savings
+T3863,88294,2694.83,success,2025-05-05,bangalore,branch3,Savings
+T3864,24418,5704.4,success,2025-05-01,bangalore,branch3,Insurance
+T3865,54260,5659.57,success,2025-05-02,bangalore,branch3,Loan
+T3866,81158,8920.32,failed,2025-05-07,bangalore,branch3,Mutual Fund
+T3867,87482,9929.78,success,2025-05-06,bangalore,branch3,Mutual Fund
+T3868,28221,1842.61,success,2025-05-01,bangalore,branch3,Savings
+T3869,15947,6902.45,success,2025-05-04,bangalore,branch3,Mutual Fund
+T3870,62810,969.8,failed,2025-05-04,bangalore,branch3,Insurance
+T3871,83551,6702.29,success,2025-05-04,bangalore,branch3,Loan
+T3872,68291,4982.27,success,2025-05-02,bangalore,branch3,Savings
+T3873,75823,5986.43,success,2025-05-04,bangalore,branch3,Mutual Fund
+T3874,19548,4495.89,success,2025-05-02,bangalore,branch3,Insurance
+T3875,40305,3579.99,success,2025-05-02,bangalore,branch3,Mutual Fund
+T3876,98412,6121.05,failed,2025-05-03,bangalore,branch3,Insurance
+T3877,95703,1495.1,success,2025-05-04,bangalore,branch3,Savings
+T3878,53857,1842.89,failed,2025-05-01,bangalore,branch3,Loan
+T3879,14501,8945.05,failed,2025-05-06,bangalore,branch3,Loan
+T3880,48142,4303.4,success,2025-05-07,bangalore,branch3,Loan
+T3881,24025,4061.03,success,2025-05-04,bangalore,branch3,Mutual Fund
+T3882,67806,3173.55,success,2025-05-02,bangalore,branch3,Mutual Fund
+T3883,56587,2071.99,failed,2025-05-01,bangalore,branch3,Savings
+T3884,19274,3928.56,success,2025-05-05,bangalore,branch3,Mutual Fund
+T3885,62915,6556.17,success,2025-05-02,bangalore,branch3,Insurance
+T3886,43443,312.94,success,2025-05-04,bangalore,branch3,Insurance
+T3887,80398,2415.66,success,2025-05-06,bangalore,branch3,Loan
+T3888,77820,9398.96,failed,2025-05-05,bangalore,branch3,Loan
+T3889,28438,6371.1,failed,2025-05-04,bangalore,branch3,Loan
+T3890,85499,8128.53,failed,2025-05-01,bangalore,branch3,Loan
+T3891,93834,5237.44,success,2025-05-05,bangalore,branch3,Loan
+T3892,91909,639.62,failed,2025-05-01,bangalore,branch3,Savings
+T3893,42274,2266.82,success,2025-05-02,bangalore,branch3,Insurance
+T3894,24314,6689.36,success,2025-05-04,bangalore,branch3,Mutual Fund
+T3895,97063,4599.72,success,2025-05-01,bangalore,branch3,Insurance
+T3896,41308,9817.44,success,2025-05-04,bangalore,branch3,Savings
+T3897,63085,4777.78,failed,2025-05-05,bangalore,branch3,Mutual Fund
+T3898,54917,8834.73,success,2025-05-07,bangalore,branch3,Loan
+T3899,34414,9441.42,success,2025-05-02,bangalore,branch3,Insurance
+T3900,59723,6485.97,failed,2025-05-02,bangalore,branch3,Mutual Fund
+T3901,18951,109.15,failed,2025-05-04,bangalore,branch3,Savings
+T3902,66360,3339.44,failed,2025-05-04,bangalore,branch3,Savings
+T3903,86922,8879.39,success,2025-05-05,bangalore,branch3,Savings
+T3904,60566,585.55,failed,2025-05-03,bangalore,branch3,Insurance
+T3905,88876,1611.32,failed,2025-05-03,bangalore,branch3,Insurance
+T3906,40545,2400.35,success,2025-05-02,bangalore,branch3,Savings
+T3907,33386,9838.71,failed,2025-05-01,bangalore,branch3,Insurance
+T3908,93688,6589.67,failed,2025-05-07,bangalore,branch3,Insurance
+T3909,10082,4733.17,success,2025-05-04,bangalore,branch3,Savings
+T3910,85407,9498.16,success,2025-05-07,bangalore,branch3,Savings
+T3911,29896,6986.58,failed,2025-05-04,bangalore,branch3,Loan
+T3912,25940,3985.1,success,2025-05-07,bangalore,branch3,Mutual Fund
+T3913,52098,9349.41,success,2025-05-05,bangalore,branch3,Savings
+T3914,88724,6350.77,success,2025-05-01,bangalore,branch3,Loan
+T3915,69783,485.83,success,2025-05-02,bangalore,branch3,Loan
+T3916,74083,5456.08,failed,2025-05-02,bangalore,branch3,Insurance
+T3917,96398,7097.27,failed,2025-05-05,bangalore,branch3,Mutual Fund
+T3918,71088,8959.99,success,2025-05-04,bangalore,branch3,Savings
+T3919,34387,7755.71,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T3920,98580,4242.56,success,2025-05-02,bangalore,branch3,Mutual Fund
+T3921,12377,8035.13,failed,2025-05-02,bangalore,branch3,Loan
+T3922,91140,5173.01,failed,2025-05-07,bangalore,branch3,Savings
+T3923,81339,6556.97,success,2025-05-03,bangalore,branch3,Insurance
+T3924,34815,119.13,failed,2025-05-07,bangalore,branch3,Insurance
+T3925,54280,8606.29,success,2025-05-07,bangalore,branch3,Mutual Fund
+T3926,11776,802.28,failed,2025-05-01,bangalore,branch3,Loan
+T3927,34664,725.03,failed,2025-05-04,bangalore,branch3,Savings
+T3928,33528,2054.54,failed,2025-05-03,bangalore,branch3,Loan
+T3929,35247,1741.83,failed,2025-05-06,bangalore,branch3,Savings
+T3930,98783,7922.2,success,2025-05-04,bangalore,branch3,Loan
+T3931,70894,9368.36,failed,2025-05-04,bangalore,branch3,Loan
+T3932,80145,8908.04,failed,2025-05-02,bangalore,branch3,Insurance
+T3933,29854,9361.76,success,2025-05-06,bangalore,branch3,Mutual Fund
+T3934,26757,3566.58,success,2025-05-06,bangalore,branch3,Savings
+T3935,90043,9473.93,success,2025-05-02,bangalore,branch3,Loan
+T3936,31783,3877.5,failed,2025-05-01,bangalore,branch3,Savings
+T3937,93844,8350.81,failed,2025-05-02,bangalore,branch3,Savings
+T3938,91583,9435.92,success,2025-05-01,bangalore,branch3,Savings
+T3939,32967,7901.95,success,2025-05-04,bangalore,branch3,Mutual Fund
+T3940,60274,5011.57,success,2025-05-03,bangalore,branch3,Mutual Fund
+T3941,66407,8229.13,failed,2025-05-03,bangalore,branch3,Insurance
+T3942,26603,4067.51,success,2025-05-07,bangalore,branch3,Insurance
+T3943,22958,5247.17,success,2025-05-06,bangalore,branch3,Insurance
+T3944,54155,3512.27,success,2025-05-05,bangalore,branch3,Loan
+T3945,59891,8796.47,success,2025-05-04,bangalore,branch3,Savings
+T3946,17682,5443.38,success,2025-05-02,bangalore,branch3,Insurance
+T3947,24392,4754.19,success,2025-05-07,bangalore,branch3,Insurance
+T3948,15946,9265.63,failed,2025-05-06,bangalore,branch3,Savings
+T3949,64151,4849.45,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T3950,79627,2461.98,success,2025-05-02,bangalore,branch3,Savings
+T3951,76121,7279.36,failed,2025-05-02,bangalore,branch3,Savings
+T3952,97629,3107.01,success,2025-05-02,bangalore,branch3,Savings
+T3953,44180,387.73,success,2025-05-04,bangalore,branch3,Savings
+T3954,13363,4545.1,failed,2025-05-06,bangalore,branch3,Insurance
+T3955,80634,5694.74,failed,2025-05-05,bangalore,branch3,Savings
+T3956,35359,7286.11,failed,2025-05-05,bangalore,branch3,Insurance
+T3957,54892,1202.36,failed,2025-05-05,bangalore,branch3,Savings
+T3958,68050,5342.97,failed,2025-05-01,bangalore,branch3,Savings
+T3959,86718,7516.64,failed,2025-05-03,bangalore,branch3,Savings
+T3960,79208,5746.47,success,2025-05-05,bangalore,branch3,Loan
+T3961,99947,9029.46,success,2025-05-04,bangalore,branch3,Loan
+T3962,36730,7577.72,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T3963,34382,9711.86,success,2025-05-02,bangalore,branch3,Loan
+T3964,91635,919.39,failed,2025-05-07,bangalore,branch3,Insurance
+T3965,84881,9411.39,success,2025-05-02,bangalore,branch3,Loan
+T3966,33281,5787.61,success,2025-05-05,bangalore,branch3,Mutual Fund
+T3967,48165,2967.95,failed,2025-05-03,bangalore,branch3,Loan
+T3968,97275,4466.33,failed,2025-05-05,bangalore,branch3,Savings
+T3969,56010,1347.56,failed,2025-05-01,bangalore,branch3,Savings
+T3970,83229,8257.84,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T3971,88717,4833.15,failed,2025-05-01,bangalore,branch3,Savings
+T3972,72619,2577.38,failed,2025-05-07,bangalore,branch3,Loan
+T3973,94943,3761.68,success,2025-05-03,bangalore,branch3,Savings
+T3974,26881,6135.53,success,2025-05-01,bangalore,branch3,Insurance
+T3975,48361,3037.52,failed,2025-05-04,bangalore,branch3,Loan
+T3976,46440,9889.9,success,2025-05-03,bangalore,branch3,Insurance
+T3977,23201,1587.19,failed,2025-05-01,bangalore,branch3,Savings
+T3978,48496,4980.41,success,2025-05-06,bangalore,branch3,Insurance
+T3979,52903,8278.57,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T3980,39368,8891.17,success,2025-05-02,bangalore,branch3,Loan
+T3981,23707,389.48,success,2025-05-02,bangalore,branch3,Loan
+T3982,32677,1101.51,success,2025-05-05,bangalore,branch3,Loan
+T3983,57621,1645.03,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T3984,82288,1260.27,failed,2025-05-01,bangalore,branch3,Mutual Fund
+T3985,81501,2599.47,failed,2025-05-01,bangalore,branch3,Insurance
+T3986,36661,6545.79,failed,2025-05-03,bangalore,branch3,Savings
+T3987,39583,3722.84,failed,2025-05-05,bangalore,branch3,Savings
+T3988,29229,5323.67,success,2025-05-02,bangalore,branch3,Mutual Fund
+T3989,66627,8021.65,success,2025-05-06,bangalore,branch3,Savings
+T3990,76442,3557.65,failed,2025-05-02,bangalore,branch3,Loan
+T3991,71189,8645.55,success,2025-05-06,bangalore,branch3,Loan
+T3992,43845,6914.62,success,2025-05-07,bangalore,branch3,Insurance
+T3993,29757,1227.3,success,2025-05-07,bangalore,branch3,Savings
+T3994,27476,3642.35,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T3995,34760,1046.29,success,2025-05-01,bangalore,branch3,Savings
+T3996,19714,4042.69,failed,2025-05-05,bangalore,branch3,Mutual Fund
+T3997,57883,2442.32,failed,2025-05-05,bangalore,branch3,Savings
+T3998,63383,6952.76,success,2025-05-02,bangalore,branch3,Savings
+T3999,74285,7455.25,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T4000,51441,2735.83,failed,2025-05-06,bangalore,branch3,Loan
+T4001,67625,6849.98,success,2025-05-03,bangalore,branch3,Savings
+T4002,35946,5277.68,success,2025-05-06,bangalore,branch3,Savings
+T4003,95822,187.01,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T4004,34724,9407.21,failed,2025-05-07,bangalore,branch3,Insurance
+T4005,94486,7287.97,failed,2025-05-01,bangalore,branch3,Insurance
+T4006,28482,9933.76,failed,2025-05-04,bangalore,branch3,Loan
+T4007,69164,7240.26,success,2025-05-04,bangalore,branch3,Loan
+T4008,33310,6175.75,success,2025-05-06,bangalore,branch3,Mutual Fund
+T4009,84768,5475.71,success,2025-05-04,bangalore,branch3,Insurance
+T4010,47880,3814.87,success,2025-05-01,bangalore,branch3,Loan
+T4011,88832,9666.72,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T4012,95016,4246.94,failed,2025-05-02,bangalore,branch3,Savings
+T4013,63167,2928.98,success,2025-05-05,bangalore,branch3,Mutual Fund
+T4014,82348,5863.71,failed,2025-05-01,bangalore,branch3,Loan
+T4015,50100,4658.94,success,2025-05-06,bangalore,branch3,Loan
+T4016,42849,1921.04,failed,2025-05-03,bangalore,branch3,Savings
+T4017,44361,8217.82,failed,2025-05-01,bangalore,branch3,Loan
+T4018,69453,3661.46,failed,2025-05-01,bangalore,branch3,Mutual Fund
+T4019,49121,6914.75,success,2025-05-04,bangalore,branch3,Savings
+T4020,15470,6845.13,success,2025-05-01,bangalore,branch3,Mutual Fund
+T4021,68693,5933.33,failed,2025-05-07,bangalore,branch3,Savings
+T4022,14980,6130.56,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T4023,82105,7868.86,success,2025-05-04,bangalore,branch3,Insurance
+T4024,62201,6909.27,success,2025-05-07,bangalore,branch3,Insurance
+T4025,39198,5330.96,success,2025-05-05,bangalore,branch3,Mutual Fund
+T4026,93648,8293.62,success,2025-05-05,bangalore,branch3,Mutual Fund
+T4027,33842,462.99,success,2025-05-07,bangalore,branch3,Mutual Fund
+T4028,60814,5225.36,success,2025-05-02,bangalore,branch3,Insurance
+T4029,26913,3176.22,failed,2025-05-01,bangalore,branch3,Loan
+T4030,98183,9753.34,success,2025-05-03,bangalore,branch3,Loan
+T4031,75454,7857.42,success,2025-05-06,bangalore,branch3,Savings
+T4032,19485,2371.23,failed,2025-05-02,bangalore,branch3,Insurance
+T4033,70304,1248.81,failed,2025-05-02,bangalore,branch3,Insurance
+T4034,49689,1864.51,success,2025-05-06,bangalore,branch3,Insurance
+T4035,67319,6947.16,success,2025-05-03,bangalore,branch3,Mutual Fund
+T4036,81913,9525.9,failed,2025-05-07,bangalore,branch3,Insurance
+T4037,38645,1265.61,success,2025-05-06,bangalore,branch3,Loan
+T4038,67108,4536.25,failed,2025-05-02,bangalore,branch3,Insurance
+T4039,27567,8907.31,failed,2025-05-06,bangalore,branch3,Savings
+T4040,41282,4603.29,failed,2025-05-04,bangalore,branch3,Loan
+T4041,57753,5281.59,success,2025-05-01,bangalore,branch3,Insurance
+T4042,74754,2141.03,success,2025-05-03,bangalore,branch3,Insurance
+T4043,79061,6858.58,success,2025-05-01,bangalore,branch3,Loan
+T4044,75154,8159.84,failed,2025-05-05,bangalore,branch3,Loan
+T4045,87932,7104.09,success,2025-05-02,bangalore,branch3,Mutual Fund
+T4046,43122,7592.02,failed,2025-05-03,bangalore,branch3,Insurance
+T4047,64273,3006.73,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T4048,54001,6531.14,failed,2025-05-01,bangalore,branch3,Savings
+T4049,36547,4843.89,success,2025-05-07,bangalore,branch3,Loan
+T4050,64327,3047.91,success,2025-05-05,bangalore,branch3,Loan
+T4051,82331,3270.14,success,2025-05-04,bangalore,branch3,Savings
+T4052,86609,1692.8,success,2025-05-05,bangalore,branch3,Loan
+T4053,31548,3860.09,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T4054,85571,1010.92,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T4055,58802,1518.61,failed,2025-05-07,bangalore,branch3,Insurance
+T4056,93351,7232.5,failed,2025-05-04,bangalore,branch3,Insurance
+T4057,56067,5692.1,success,2025-05-03,bangalore,branch3,Loan
+T4058,39022,8932.9,failed,2025-05-02,bangalore,branch3,Insurance
+T4059,69906,2070.54,success,2025-05-01,bangalore,branch3,Loan
+T4060,82652,3565.24,success,2025-05-02,bangalore,branch3,Loan
+T4061,34549,232.3,success,2025-05-07,bangalore,branch3,Mutual Fund
+T4062,85993,5208.17,failed,2025-05-07,bangalore,branch3,Insurance
+T4063,93335,4971.1,failed,2025-05-05,bangalore,branch3,Loan
+T4064,61134,5603.89,failed,2025-05-02,bangalore,branch3,Savings
+T4065,22545,9070.31,success,2025-05-01,bangalore,branch3,Loan
+T4066,62850,7217.34,success,2025-05-01,bangalore,branch3,Savings
+T4067,52272,1405.99,success,2025-05-07,bangalore,branch3,Insurance
+T4068,86029,3043.25,failed,2025-05-07,bangalore,branch3,Mutual Fund
+T4069,42218,2588.28,success,2025-05-05,bangalore,branch3,Loan
+T4070,18613,7445.04,failed,2025-05-06,bangalore,branch3,Loan
+T4071,95204,1754.62,failed,2025-05-03,bangalore,branch3,Savings
+T4072,13662,9210.44,success,2025-05-02,bangalore,branch3,Savings
+T4073,49480,4196.7,failed,2025-05-01,bangalore,branch3,Insurance
+T4074,97388,388.42,success,2025-05-05,bangalore,branch3,Mutual Fund
+T4075,29037,2254.95,success,2025-05-02,bangalore,branch3,Mutual Fund
+T4076,76001,5530.26,failed,2025-05-02,bangalore,branch3,Savings
+T4077,66416,2232.88,success,2025-05-02,bangalore,branch3,Savings
+T4078,38817,3062.37,failed,2025-05-03,bangalore,branch3,Insurance
+T4079,36773,343.64,failed,2025-05-04,bangalore,branch3,Insurance
+T4080,35924,5498.45,failed,2025-05-03,bangalore,branch3,Loan
+T4081,50575,6861.8,success,2025-05-06,bangalore,branch3,Mutual Fund
+T4082,86383,2263.32,success,2025-05-01,bangalore,branch3,Insurance
+T4083,47499,4079.73,failed,2025-05-03,bangalore,branch3,Savings
+T4084,12036,3432.99,failed,2025-05-01,bangalore,branch3,Savings
+T4085,89349,2704.6,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T4086,98968,2875.97,success,2025-05-02,bangalore,branch3,Loan
+T4087,88551,3188.2,success,2025-05-04,bangalore,branch3,Insurance
+T4088,21161,7390.66,failed,2025-05-07,bangalore,branch3,Savings
+T4089,62010,9181.25,success,2025-05-07,bangalore,branch3,Loan
+T4090,71964,3440.93,failed,2025-05-04,bangalore,branch3,Loan
+T4091,20569,6277.01,success,2025-05-02,bangalore,branch3,Mutual Fund
+T4092,72207,8461.89,success,2025-05-05,bangalore,branch3,Mutual Fund
+T4093,29460,8803.76,success,2025-05-06,bangalore,branch3,Mutual Fund
+T4094,78595,5600.56,failed,2025-05-01,bangalore,branch3,Loan
+T4095,88463,5839.3,failed,2025-05-04,bangalore,branch3,Mutual Fund
+T4096,57589,1260.27,failed,2025-05-05,bangalore,branch3,Mutual Fund
+T4097,56050,2576.92,success,2025-05-01,bangalore,branch3,Mutual Fund
+T4098,14648,9838.15,failed,2025-05-06,bangalore,branch3,Insurance
+T4099,25058,4901.44,failed,2025-05-03,bangalore,branch3,Savings
+T4100,31530,9588.25,failed,2025-05-05,bangalore,branch3,Mutual Fund
+T4101,21250,4499.14,failed,2025-05-01,bangalore,branch3,Mutual Fund
+T4102,95756,9884.67,failed,2025-05-01,bangalore,branch3,Savings
+T4103,81275,7678.23,success,2025-05-03,bangalore,branch3,Insurance
+T4104,33491,2647.02,failed,2025-05-02,bangalore,branch3,Loan
+T4105,48703,3875.93,failed,2025-05-04,bangalore,branch3,Savings
+T4106,19030,9806.39,success,2025-05-01,bangalore,branch3,Insurance
+T4107,90723,3149.7,failed,2025-05-04,bangalore,branch3,Loan
+T4108,45967,4786.0,success,2025-05-07,bangalore,branch3,Mutual Fund
+T4109,51287,4692.52,success,2025-05-01,bangalore,branch3,Savings
+T4110,14688,2567.88,failed,2025-05-01,bangalore,branch3,Mutual Fund
+T4111,39954,3946.43,success,2025-05-04,bangalore,branch3,Loan
+T4112,47566,4887.39,success,2025-05-05,bangalore,branch3,Loan
+T4113,70277,785.3,success,2025-05-05,bangalore,branch3,Savings
+T4114,76340,6458.62,success,2025-05-01,bangalore,branch3,Loan
+T4115,25682,6385.04,success,2025-05-04,bangalore,branch3,Loan
+T4116,37256,7901.51,success,2025-05-01,bangalore,branch3,Loan
+T4117,30734,9514.23,failed,2025-05-04,bangalore,branch3,Insurance
+T4118,73658,8487.29,success,2025-05-05,bangalore,branch3,Mutual Fund
+T4119,55845,9446.95,success,2025-05-01,bangalore,branch3,Loan
+T4120,16443,4511.1,failed,2025-05-01,bangalore,branch3,Mutual Fund
+T4121,70175,8386.52,success,2025-05-04,bangalore,branch3,Loan
+T4122,87738,7908.68,success,2025-05-06,bangalore,branch3,Loan
+T4123,19625,5923.02,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T4124,48171,9678.15,success,2025-05-05,bangalore,branch3,Mutual Fund
+T4125,39799,7866.59,success,2025-05-02,bangalore,branch3,Mutual Fund
+T4126,42320,3552.56,failed,2025-05-06,bangalore,branch3,Insurance
+T4127,25422,6726.66,success,2025-05-06,bangalore,branch3,Insurance
+T4128,92651,9199.65,success,2025-05-04,bangalore,branch3,Savings
+T4129,17753,500.05,success,2025-05-05,bangalore,branch3,Insurance
+T4130,39216,9637.97,success,2025-05-06,bangalore,branch3,Mutual Fund
+T4131,91778,2857.65,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T4132,54894,8438.89,success,2025-05-01,bangalore,branch3,Loan
+T4133,65314,8373.02,success,2025-05-02,bangalore,branch3,Insurance
+T4134,11417,644.73,failed,2025-05-05,bangalore,branch3,Savings
+T4135,72432,5009.38,failed,2025-05-06,bangalore,branch3,Insurance
+T4136,69741,1538.6,success,2025-05-07,bangalore,branch3,Loan
+T4137,30761,8090.76,success,2025-05-06,bangalore,branch3,Mutual Fund
+T4138,88343,1599.05,failed,2025-05-03,bangalore,branch3,Savings
+T4139,42286,3558.98,failed,2025-05-01,bangalore,branch3,Loan
+T4140,69429,4529.78,success,2025-05-01,bangalore,branch3,Savings
+T4141,79069,8250.22,success,2025-05-06,bangalore,branch3,Insurance
+T4142,29180,2186.62,success,2025-05-03,bangalore,branch3,Loan
+T4143,56210,1663.11,success,2025-05-06,bangalore,branch3,Mutual Fund
+T4144,64825,6589.15,failed,2025-05-06,bangalore,branch3,Insurance
+T4145,37540,8463.53,success,2025-05-01,bangalore,branch3,Insurance
+T4146,87467,4841.63,failed,2025-05-01,bangalore,branch3,Insurance
+T4147,43815,1346.32,success,2025-05-01,bangalore,branch3,Loan
+T4148,89897,707.82,failed,2025-05-02,bangalore,branch3,Savings
+T4149,97488,5545.4,failed,2025-05-05,bangalore,branch3,Insurance
+T4150,92335,6806.79,success,2025-05-01,bangalore,branch3,Loan
+T4151,37055,712.76,success,2025-05-06,bangalore,branch3,Loan
+T4152,53906,6281.5,failed,2025-05-07,bangalore,branch3,Savings
+T4153,96519,1506.03,success,2025-05-04,bangalore,branch3,Savings
+T4154,50880,9029.55,failed,2025-05-05,bangalore,branch3,Mutual Fund
+T4155,37456,1255.42,failed,2025-05-03,bangalore,branch3,Mutual Fund
+T4156,68129,5092.4,failed,2025-05-04,bangalore,branch3,Insurance
+T4157,16952,2828.19,failed,2025-05-03,bangalore,branch3,Loan
+T4158,75028,2275.12,success,2025-05-07,bangalore,branch3,Loan
+T4159,94499,230.59,failed,2025-05-05,bangalore,branch3,Mutual Fund
+T4160,24978,7605.44,success,2025-05-05,bangalore,branch3,Loan
+T4161,51902,191.72,failed,2025-05-03,bangalore,branch3,Insurance
+T4162,20480,7822.47,failed,2025-05-01,bangalore,branch3,Loan
+T4163,44901,2512.21,success,2025-05-03,bangalore,branch3,Insurance
+T4164,74571,527.06,success,2025-05-02,bangalore,branch3,Mutual Fund
+T4165,94372,3125.28,success,2025-05-04,bangalore,branch3,Savings
+T4166,21668,7752.42,success,2025-05-07,bangalore,branch3,Insurance
+T4167,76880,776.45,success,2025-05-06,bangalore,branch3,Loan
+T4168,93240,2794.1,failed,2025-05-06,bangalore,branch3,Mutual Fund
+T4169,60047,4122.21,failed,2025-05-04,bangalore,branch3,Savings
+T4170,87648,4391.34,failed,2025-05-01,bangalore,branch3,Mutual Fund
+T4171,83113,7402.02,failed,2025-05-07,bangalore,branch3,Mutual Fund
+T4172,96459,4734.76,failed,2025-05-05,bangalore,branch3,Savings
+T4173,32569,1174.81,failed,2025-05-04,bangalore,branch3,Insurance
+T4174,67216,1093.41,success,2025-05-03,bangalore,branch3,Savings
+T4175,82405,779.73,success,2025-05-07,bangalore,branch3,Mutual Fund
+T4176,96215,4139.97,success,2025-05-04,bangalore,branch3,Loan
+T4177,82760,896.06,failed,2025-05-01,bangalore,branch3,Insurance
+T4178,21130,2226.69,success,2025-05-04,bangalore,branch3,Insurance
+T4179,13773,4272.73,success,2025-05-04,bangalore,branch3,Savings
+T4180,66617,8897.45,success,2025-05-01,bangalore,branch3,Insurance
+T4181,70156,779.69,success,2025-05-06,bangalore,branch3,Loan
+T4182,81412,6972.46,success,2025-05-05,bangalore,branch3,Savings
+T4183,45489,1499.88,failed,2025-05-01,bangalore,branch3,Savings
+T4184,25832,5862.99,success,2025-05-03,bangalore,branch3,Savings
+T4185,87877,4478.94,failed,2025-05-03,bangalore,branch3,Savings
+T4186,40496,3624.18,success,2025-05-06,bangalore,branch3,Insurance
+T4187,62758,9640.97,success,2025-05-05,bangalore,branch3,Loan
+T4188,49575,3138.34,failed,2025-05-03,bangalore,branch3,Loan
+T4189,32391,1806.4,success,2025-05-03,bangalore,branch3,Savings
+T4190,20999,2875.8,success,2025-05-01,bangalore,branch3,Savings
+T4191,18589,4392.92,success,2025-05-07,bangalore,branch3,Insurance
+T4192,93856,4482.91,failed,2025-05-01,bangalore,branch3,Mutual Fund
+T4193,15462,3409.99,failed,2025-05-06,bangalore,branch3,Insurance
+T4194,19525,5237.49,success,2025-05-07,bangalore,branch3,Insurance
+T4195,61074,5760.14,success,2025-05-07,bangalore,branch3,Mutual Fund
+T4196,74039,263.08,success,2025-05-04,bangalore,branch3,Loan
+T4197,75746,4273.97,success,2025-05-05,bangalore,branch3,Loan
+T4198,52409,7098.69,failed,2025-05-05,bangalore,branch3,Savings
+T4199,78726,2331.3,failed,2025-05-01,bangalore,branch3,Savings

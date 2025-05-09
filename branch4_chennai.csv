@@ -1,0 +1,401 @@
+txn_id,account_no,amount,status,date,city,branch_name,product
+T2200,82927,2995.52,success,2025-05-05,chennai,branch4,Insurance
+T2201,53716,2085.72,failed,2025-05-02,chennai,branch4,Mutual Fund
+T2202,16118,1740.35,failed,2025-05-01,chennai,branch4,Loan
+T2203,61107,3794.77,failed,2025-05-02,chennai,branch4,Mutual Fund
+T2204,20929,1839.76,success,2025-05-04,chennai,branch4,Loan
+T2205,92459,2119.3,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2206,58457,1675.58,failed,2025-05-04,chennai,branch4,Insurance
+T2207,29436,668.63,failed,2025-05-03,chennai,branch4,Insurance
+T2208,50526,2624.66,success,2025-05-05,chennai,branch4,Savings
+T2209,30825,8617.77,success,2025-05-07,chennai,branch4,Loan
+T2210,67903,1726.15,success,2025-05-06,chennai,branch4,Savings
+T2211,71120,480.84,failed,2025-05-07,chennai,branch4,Savings
+T2212,40701,1642.95,success,2025-05-03,chennai,branch4,Insurance
+T2213,51710,6324.3,failed,2025-05-06,chennai,branch4,Savings
+T2214,60423,5260.76,success,2025-05-07,chennai,branch4,Mutual Fund
+T2215,23395,5879.17,failed,2025-05-03,chennai,branch4,Savings
+T2216,94931,4688.49,failed,2025-05-05,chennai,branch4,Savings
+T2217,70693,9896.18,success,2025-05-02,chennai,branch4,Loan
+T2218,92394,6639.56,failed,2025-05-06,chennai,branch4,Savings
+T2219,32518,8410.17,failed,2025-05-04,chennai,branch4,Savings
+T2220,37225,3171.79,failed,2025-05-06,chennai,branch4,Loan
+T2221,87622,8195.1,success,2025-05-02,chennai,branch4,Mutual Fund
+T2222,27834,5844.51,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2223,70081,3726.34,success,2025-05-02,chennai,branch4,Mutual Fund
+T2224,26064,5297.39,success,2025-05-06,chennai,branch4,Loan
+T2225,21634,3610.02,failed,2025-05-05,chennai,branch4,Mutual Fund
+T2226,31264,5208.76,failed,2025-05-04,chennai,branch4,Mutual Fund
+T2227,67549,8343.01,failed,2025-05-02,chennai,branch4,Mutual Fund
+T2228,16592,3905.87,success,2025-05-06,chennai,branch4,Insurance
+T2229,41753,4502.54,success,2025-05-07,chennai,branch4,Mutual Fund
+T2230,75499,2989.47,success,2025-05-06,chennai,branch4,Savings
+T2231,37622,4691.48,success,2025-05-03,chennai,branch4,Insurance
+T2232,46923,9620.0,failed,2025-05-05,chennai,branch4,Insurance
+T2233,35569,8300.51,failed,2025-05-04,chennai,branch4,Loan
+T2234,80038,8956.92,success,2025-05-07,chennai,branch4,Savings
+T2235,44268,8152.38,failed,2025-05-01,chennai,branch4,Loan
+T2236,88669,6918.91,success,2025-05-03,chennai,branch4,Mutual Fund
+T2237,72698,9366.63,success,2025-05-01,chennai,branch4,Savings
+T2238,21323,6412.7,failed,2025-05-06,chennai,branch4,Insurance
+T2239,42543,7878.77,failed,2025-05-05,chennai,branch4,Savings
+T2240,43737,2351.9,success,2025-05-02,chennai,branch4,Savings
+T2241,36809,706.63,success,2025-05-03,chennai,branch4,Loan
+T2242,30072,1707.68,failed,2025-05-04,chennai,branch4,Savings
+T2243,19394,5122.66,failed,2025-05-03,chennai,branch4,Mutual Fund
+T2244,35270,6360.41,failed,2025-05-05,chennai,branch4,Savings
+T2245,72725,6159.26,success,2025-05-03,chennai,branch4,Insurance
+T2246,39011,5987.61,success,2025-05-07,chennai,branch4,Mutual Fund
+T2247,32839,8130.42,success,2025-05-02,chennai,branch4,Savings
+T2248,10153,7665.33,success,2025-05-02,chennai,branch4,Insurance
+T2249,76329,9241.16,success,2025-05-04,chennai,branch4,Mutual Fund
+T2250,69296,4094.27,failed,2025-05-07,chennai,branch4,Insurance
+T2251,44491,1708.17,success,2025-05-04,chennai,branch4,Insurance
+T2252,30962,8216.67,success,2025-05-03,chennai,branch4,Loan
+T2253,27308,792.36,failed,2025-05-02,chennai,branch4,Loan
+T2254,46923,2660.56,success,2025-05-01,chennai,branch4,Loan
+T2255,70181,290.47,success,2025-05-02,chennai,branch4,Savings
+T2256,34051,9415.24,success,2025-05-04,chennai,branch4,Loan
+T2257,71431,557.9,failed,2025-05-04,chennai,branch4,Mutual Fund
+T2258,68066,209.86,success,2025-05-07,chennai,branch4,Loan
+T2259,88815,2127.75,failed,2025-05-07,chennai,branch4,Insurance
+T2260,57158,2634.86,failed,2025-05-05,chennai,branch4,Savings
+T2261,21395,1757.79,success,2025-05-01,chennai,branch4,Mutual Fund
+T2262,10309,9068.82,success,2025-05-07,chennai,branch4,Insurance
+T2263,36484,3529.05,failed,2025-05-04,chennai,branch4,Loan
+T2264,48429,5337.33,failed,2025-05-06,chennai,branch4,Savings
+T2265,56751,7896.33,success,2025-05-04,chennai,branch4,Insurance
+T2266,40710,3461.87,failed,2025-05-03,chennai,branch4,Savings
+T2267,15712,9100.4,failed,2025-05-04,chennai,branch4,Insurance
+T2268,79740,3307.54,success,2025-05-01,chennai,branch4,Mutual Fund
+T2269,19608,5138.15,failed,2025-05-07,chennai,branch4,Insurance
+T2270,84773,1123.1,success,2025-05-02,chennai,branch4,Mutual Fund
+T2271,64230,4626.52,success,2025-05-06,chennai,branch4,Insurance
+T2272,53789,1103.64,failed,2025-05-06,chennai,branch4,Savings
+T2273,92806,2734.51,failed,2025-05-02,chennai,branch4,Insurance
+T2274,58632,5307.27,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2275,61657,9485.06,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2276,96597,5198.37,success,2025-05-06,chennai,branch4,Mutual Fund
+T2277,37491,5773.15,failed,2025-05-02,chennai,branch4,Loan
+T2278,20439,357.11,success,2025-05-02,chennai,branch4,Mutual Fund
+T2279,58768,4931.56,failed,2025-05-04,chennai,branch4,Loan
+T2280,57679,1116.7,success,2025-05-05,chennai,branch4,Loan
+T2281,44905,8790.1,failed,2025-05-01,chennai,branch4,Savings
+T2282,95901,8414.42,failed,2025-05-03,chennai,branch4,Savings
+T2283,53445,4233.66,success,2025-05-04,chennai,branch4,Insurance
+T2284,99080,6463.14,success,2025-05-05,chennai,branch4,Insurance
+T2285,86076,5889.13,failed,2025-05-03,chennai,branch4,Mutual Fund
+T2286,31998,8179.22,success,2025-05-01,chennai,branch4,Mutual Fund
+T2287,98238,2029.83,failed,2025-05-02,chennai,branch4,Loan
+T2288,36109,8597.09,failed,2025-05-04,chennai,branch4,Savings
+T2289,95780,3683.91,failed,2025-05-05,chennai,branch4,Savings
+T2290,15524,3556.22,success,2025-05-06,chennai,branch4,Loan
+T2291,15278,1617.91,success,2025-05-06,chennai,branch4,Insurance
+T2292,30127,4529.72,success,2025-05-03,chennai,branch4,Mutual Fund
+T2293,10502,4980.27,failed,2025-05-05,chennai,branch4,Loan
+T2294,28739,4417.99,success,2025-05-02,chennai,branch4,Savings
+T2295,20358,6931.99,success,2025-05-03,chennai,branch4,Mutual Fund
+T2296,93733,462.27,success,2025-05-03,chennai,branch4,Insurance
+T2297,44182,4418.63,success,2025-05-01,chennai,branch4,Insurance
+T2298,91195,722.47,failed,2025-05-04,chennai,branch4,Insurance
+T2299,77290,3452.64,success,2025-05-02,chennai,branch4,Savings
+T2300,95048,1349.02,success,2025-05-06,chennai,branch4,Mutual Fund
+T2301,45866,6681.55,success,2025-05-02,chennai,branch4,Loan
+T2302,74058,7177.9,failed,2025-05-04,chennai,branch4,Savings
+T2303,86025,3962.62,success,2025-05-04,chennai,branch4,Insurance
+T2304,54350,7562.17,success,2025-05-03,chennai,branch4,Insurance
+T2305,41632,9417.65,failed,2025-05-05,chennai,branch4,Insurance
+T2306,88857,2042.67,success,2025-05-06,chennai,branch4,Savings
+T2307,64546,2017.06,failed,2025-05-03,chennai,branch4,Insurance
+T2308,26316,5548.07,failed,2025-05-07,chennai,branch4,Insurance
+T2309,69261,3645.6,success,2025-05-05,chennai,branch4,Insurance
+T2310,12620,5479.41,success,2025-05-01,chennai,branch4,Savings
+T2311,23172,4241.59,failed,2025-05-03,chennai,branch4,Insurance
+T2312,33408,950.13,failed,2025-05-06,chennai,branch4,Insurance
+T2313,66229,3777.26,success,2025-05-03,chennai,branch4,Savings
+T2314,99598,6431.1,success,2025-05-06,chennai,branch4,Mutual Fund
+T2315,48732,2698.89,failed,2025-05-04,chennai,branch4,Insurance
+T2316,32096,136.21,failed,2025-05-07,chennai,branch4,Savings
+T2317,51360,354.98,failed,2025-05-05,chennai,branch4,Savings
+T2318,96422,758.58,failed,2025-05-01,chennai,branch4,Loan
+T2319,41309,9478.33,success,2025-05-07,chennai,branch4,Insurance
+T2320,75511,8082.23,success,2025-05-03,chennai,branch4,Mutual Fund
+T2321,69597,5343.01,success,2025-05-06,chennai,branch4,Mutual Fund
+T2322,41821,134.57,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2323,35338,725.68,success,2025-05-03,chennai,branch4,Mutual Fund
+T2324,40948,7541.1,success,2025-05-01,chennai,branch4,Insurance
+T2325,43742,2456.06,failed,2025-05-04,chennai,branch4,Loan
+T2326,68403,1434.14,success,2025-05-02,chennai,branch4,Savings
+T2327,29105,759.9,failed,2025-05-02,chennai,branch4,Insurance
+T2328,44108,5082.81,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2329,75432,2636.13,success,2025-05-03,chennai,branch4,Insurance
+T2330,75535,3705.32,failed,2025-05-03,chennai,branch4,Insurance
+T2331,59636,4788.08,success,2025-05-02,chennai,branch4,Loan
+T2332,85400,6103.45,success,2025-05-03,chennai,branch4,Savings
+T2333,54442,8617.21,success,2025-05-04,chennai,branch4,Insurance
+T2334,81694,3044.1,failed,2025-05-05,chennai,branch4,Mutual Fund
+T2335,24133,1612.98,success,2025-05-05,chennai,branch4,Savings
+T2336,89621,8184.71,failed,2025-05-06,chennai,branch4,Savings
+T2337,88344,5580.96,success,2025-05-07,chennai,branch4,Insurance
+T2338,16449,835.35,success,2025-05-02,chennai,branch4,Loan
+T2339,14328,2228.78,success,2025-05-03,chennai,branch4,Savings
+T2340,75397,7084.18,success,2025-05-02,chennai,branch4,Loan
+T2341,99926,6127.55,failed,2025-05-01,chennai,branch4,Savings
+T2342,38125,1943.08,failed,2025-05-05,chennai,branch4,Loan
+T2343,41380,6786.53,failed,2025-05-01,chennai,branch4,Loan
+T2344,20210,8325.87,success,2025-05-02,chennai,branch4,Mutual Fund
+T2345,72898,6397.74,failed,2025-05-07,chennai,branch4,Insurance
+T2346,72452,4180.26,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2347,20937,1255.03,success,2025-05-07,chennai,branch4,Savings
+T2348,56679,8270.3,success,2025-05-01,chennai,branch4,Insurance
+T2349,98913,4088.99,failed,2025-05-05,chennai,branch4,Savings
+T2350,93643,308.06,failed,2025-05-06,chennai,branch4,Insurance
+T2351,10298,7473.2,success,2025-05-02,chennai,branch4,Insurance
+T2352,14269,4362.42,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2353,93806,719.99,success,2025-05-03,chennai,branch4,Mutual Fund
+T2354,20963,4105.43,failed,2025-05-07,chennai,branch4,Mutual Fund
+T2355,24743,4059.04,success,2025-05-04,chennai,branch4,Mutual Fund
+T2356,48384,1807.52,failed,2025-05-01,chennai,branch4,Savings
+T2357,86532,8272.07,failed,2025-05-04,chennai,branch4,Mutual Fund
+T2358,55035,4645.58,success,2025-05-01,chennai,branch4,Loan
+T2359,48795,6019.65,failed,2025-05-04,chennai,branch4,Insurance
+T2360,16678,7089.72,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2361,85228,9780.64,success,2025-05-05,chennai,branch4,Loan
+T2362,46911,6477.01,failed,2025-05-02,chennai,branch4,Insurance
+T2363,78999,404.82,failed,2025-05-07,chennai,branch4,Mutual Fund
+T2364,74004,2775.14,failed,2025-05-02,chennai,branch4,Savings
+T2365,93326,4823.23,success,2025-05-03,chennai,branch4,Loan
+T2366,20039,6748.93,failed,2025-05-01,chennai,branch4,Insurance
+T2367,64850,7358.96,success,2025-05-01,chennai,branch4,Insurance
+T2368,52833,459.23,success,2025-05-04,chennai,branch4,Mutual Fund
+T2369,16575,1100.19,failed,2025-05-05,chennai,branch4,Loan
+T2370,19404,1499.83,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2371,67907,9798.84,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2372,20339,9757.31,success,2025-05-07,chennai,branch4,Insurance
+T2373,90771,382.14,success,2025-05-04,chennai,branch4,Insurance
+T2374,80397,8824.07,failed,2025-05-04,chennai,branch4,Loan
+T2375,13652,8406.56,failed,2025-05-03,chennai,branch4,Loan
+T2376,65280,5013.46,failed,2025-05-06,chennai,branch4,Insurance
+T2377,29565,121.57,failed,2025-05-04,chennai,branch4,Savings
+T2378,69974,9055.89,failed,2025-05-05,chennai,branch4,Loan
+T2379,53436,5912.16,failed,2025-05-06,chennai,branch4,Insurance
+T2380,51658,3315.29,success,2025-05-07,chennai,branch4,Savings
+T2381,63859,5943.28,success,2025-05-01,chennai,branch4,Mutual Fund
+T2382,74074,7422.32,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2383,41058,5098.78,failed,2025-05-03,chennai,branch4,Insurance
+T2384,48840,3526.95,success,2025-05-06,chennai,branch4,Loan
+T2385,71348,9449.79,success,2025-05-01,chennai,branch4,Savings
+T2386,53729,1618.9,success,2025-05-07,chennai,branch4,Mutual Fund
+T2387,79799,3219.76,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2388,92597,2303.87,success,2025-05-05,chennai,branch4,Insurance
+T2389,66904,5448.42,success,2025-05-07,chennai,branch4,Insurance
+T2390,12416,5341.23,failed,2025-05-02,chennai,branch4,Savings
+T2391,16546,1057.51,failed,2025-05-01,chennai,branch4,Savings
+T2392,92860,745.56,success,2025-05-06,chennai,branch4,Mutual Fund
+T2393,53522,9560.15,failed,2025-05-04,chennai,branch4,Mutual Fund
+T2394,16948,2645.33,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2395,29715,6622.28,success,2025-05-06,chennai,branch4,Savings
+T2396,31783,4481.05,success,2025-05-05,chennai,branch4,Mutual Fund
+T2397,75669,1171.43,success,2025-05-05,chennai,branch4,Insurance
+T2398,66173,8314.34,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2399,26448,8076.89,success,2025-05-06,chennai,branch4,Loan
+T2400,27221,5478.18,success,2025-05-01,chennai,branch4,Insurance
+T2401,43249,8185.02,success,2025-05-04,chennai,branch4,Loan
+T2402,53034,4953.49,success,2025-05-06,chennai,branch4,Loan
+T2403,61094,7529.84,failed,2025-05-02,chennai,branch4,Mutual Fund
+T2404,67762,8352.59,failed,2025-05-01,chennai,branch4,Insurance
+T2405,28363,5359.51,success,2025-05-06,chennai,branch4,Loan
+T2406,57682,5345.54,success,2025-05-01,chennai,branch4,Savings
+T2407,54131,9449.0,success,2025-05-03,chennai,branch4,Mutual Fund
+T2408,55784,1629.74,failed,2025-05-03,chennai,branch4,Mutual Fund
+T2409,31683,1646.43,success,2025-05-07,chennai,branch4,Insurance
+T2410,80095,4234.35,failed,2025-05-03,chennai,branch4,Loan
+T2411,84537,8667.79,success,2025-05-07,chennai,branch4,Savings
+T2412,54564,7889.62,failed,2025-05-02,chennai,branch4,Insurance
+T2413,97828,7642.88,success,2025-05-03,chennai,branch4,Loan
+T2414,70758,3390.25,failed,2025-05-01,chennai,branch4,Savings
+T2415,75470,1898.07,success,2025-05-04,chennai,branch4,Insurance
+T2416,13392,8629.64,success,2025-05-05,chennai,branch4,Loan
+T2417,32066,8348.95,success,2025-05-02,chennai,branch4,Mutual Fund
+T2418,48239,9510.89,failed,2025-05-02,chennai,branch4,Savings
+T2419,18571,9272.6,failed,2025-05-03,chennai,branch4,Loan
+T2420,17591,8857.8,success,2025-05-07,chennai,branch4,Loan
+T2421,39017,5355.59,failed,2025-05-05,chennai,branch4,Insurance
+T2422,13267,7152.57,success,2025-05-07,chennai,branch4,Loan
+T2423,36575,7226.3,success,2025-05-03,chennai,branch4,Savings
+T2424,12282,2908.17,success,2025-05-04,chennai,branch4,Loan
+T2425,26568,7448.28,failed,2025-05-07,chennai,branch4,Mutual Fund
+T2426,42940,4122.4,failed,2025-05-05,chennai,branch4,Loan
+T2427,29698,3788.35,success,2025-05-03,chennai,branch4,Savings
+T2428,98560,8401.79,failed,2025-05-07,chennai,branch4,Loan
+T2429,72891,2995.09,failed,2025-05-04,chennai,branch4,Mutual Fund
+T2430,49653,6695.52,failed,2025-05-01,chennai,branch4,Insurance
+T2431,68817,9180.17,success,2025-05-04,chennai,branch4,Insurance
+T2432,24658,5678.16,success,2025-05-04,chennai,branch4,Insurance
+T2433,55971,3038.87,success,2025-05-05,chennai,branch4,Insurance
+T2434,67893,1819.4,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2435,11732,4042.8,success,2025-05-03,chennai,branch4,Insurance
+T2436,54204,8840.5,failed,2025-05-03,chennai,branch4,Loan
+T2437,53473,3054.22,success,2025-05-05,chennai,branch4,Insurance
+T2438,22629,8779.62,success,2025-05-02,chennai,branch4,Mutual Fund
+T2439,88200,8396.75,success,2025-05-07,chennai,branch4,Loan
+T2440,56923,4640.03,success,2025-05-02,chennai,branch4,Mutual Fund
+T2441,72933,1499.36,success,2025-05-07,chennai,branch4,Mutual Fund
+T2442,27644,3208.03,failed,2025-05-03,chennai,branch4,Loan
+T2443,56386,2578.26,failed,2025-05-06,chennai,branch4,Loan
+T2444,50737,6818.37,failed,2025-05-03,chennai,branch4,Insurance
+T2445,71304,1628.85,failed,2025-05-01,chennai,branch4,Insurance
+T2446,55482,1769.67,failed,2025-05-04,chennai,branch4,Savings
+T2447,26765,9364.09,success,2025-05-03,chennai,branch4,Savings
+T2448,64951,8502.05,failed,2025-05-03,chennai,branch4,Insurance
+T2449,52748,5627.12,failed,2025-05-02,chennai,branch4,Savings
+T2450,41141,5628.47,failed,2025-05-03,chennai,branch4,Savings
+T2451,16623,5277.53,failed,2025-05-05,chennai,branch4,Insurance
+T2452,11232,4337.74,success,2025-05-03,chennai,branch4,Loan
+T2453,39658,7676.03,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2454,48013,6828.17,success,2025-05-01,chennai,branch4,Savings
+T2455,44737,4352.14,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2456,82093,4838.74,success,2025-05-05,chennai,branch4,Savings
+T2457,60199,9207.78,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2458,77069,5096.62,failed,2025-05-06,chennai,branch4,Loan
+T2459,66743,3885.57,failed,2025-05-02,chennai,branch4,Insurance
+T2460,22698,1228.58,failed,2025-05-05,chennai,branch4,Savings
+T2461,25605,8486.6,success,2025-05-02,chennai,branch4,Savings
+T2462,31492,3598.43,failed,2025-05-06,chennai,branch4,Insurance
+T2463,40372,6412.51,success,2025-05-01,chennai,branch4,Insurance
+T2464,84522,4386.79,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2465,22093,3060.75,success,2025-05-03,chennai,branch4,Mutual Fund
+T2466,40430,963.73,failed,2025-05-02,chennai,branch4,Mutual Fund
+T2467,46826,476.69,failed,2025-05-04,chennai,branch4,Insurance
+T2468,90483,5087.04,failed,2025-05-07,chennai,branch4,Savings
+T2469,91049,4160.33,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2470,65217,6077.93,success,2025-05-03,chennai,branch4,Savings
+T2471,20259,762.39,failed,2025-05-03,chennai,branch4,Mutual Fund
+T2472,29389,9522.07,failed,2025-05-03,chennai,branch4,Loan
+T2473,69723,5502.5,success,2025-05-06,chennai,branch4,Insurance
+T2474,47387,3634.56,failed,2025-05-02,chennai,branch4,Insurance
+T2475,71148,8798.4,success,2025-05-05,chennai,branch4,Mutual Fund
+T2476,76059,9224.31,success,2025-05-06,chennai,branch4,Savings
+T2477,28463,3057.16,failed,2025-05-05,chennai,branch4,Savings
+T2478,56141,3024.53,failed,2025-05-02,chennai,branch4,Insurance
+T2479,12058,6680.58,failed,2025-05-01,chennai,branch4,Insurance
+T2480,13279,5852.73,success,2025-05-02,chennai,branch4,Insurance
+T2481,57247,8575.67,success,2025-05-07,chennai,branch4,Loan
+T2482,32955,5951.06,success,2025-05-05,chennai,branch4,Mutual Fund
+T2483,96679,6798.34,success,2025-05-07,chennai,branch4,Savings
+T2484,16343,7744.16,failed,2025-05-06,chennai,branch4,Insurance
+T2485,77685,3988.49,failed,2025-05-06,chennai,branch4,Savings
+T2486,64936,1065.99,success,2025-05-04,chennai,branch4,Insurance
+T2487,84590,7387.86,success,2025-05-07,chennai,branch4,Savings
+T2488,22384,9312.22,success,2025-05-07,chennai,branch4,Insurance
+T2489,29816,2730.52,failed,2025-05-05,chennai,branch4,Savings
+T2490,21615,7413.42,success,2025-05-07,chennai,branch4,Insurance
+T2491,11185,2138.72,failed,2025-05-02,chennai,branch4,Insurance
+T2492,74755,3586.55,failed,2025-05-06,chennai,branch4,Loan
+T2493,11812,1538.03,success,2025-05-02,chennai,branch4,Insurance
+T2494,66191,2336.43,failed,2025-05-03,chennai,branch4,Insurance
+T2495,25398,111.57,success,2025-05-03,chennai,branch4,Loan
+T2496,25831,5517.77,success,2025-05-03,chennai,branch4,Mutual Fund
+T2497,45307,7897.24,success,2025-05-02,chennai,branch4,Insurance
+T2498,55687,2926.42,failed,2025-05-05,chennai,branch4,Savings
+T2499,67185,7933.52,failed,2025-05-01,chennai,branch4,Loan
+T2500,13249,6566.34,success,2025-05-07,chennai,branch4,Loan
+T2501,66183,5456.32,success,2025-05-05,chennai,branch4,Mutual Fund
+T2502,16863,2653.78,failed,2025-05-06,chennai,branch4,Insurance
+T2503,20927,9218.17,failed,2025-05-04,chennai,branch4,Insurance
+T2504,70086,3653.05,success,2025-05-01,chennai,branch4,Loan
+T2505,48278,5456.91,failed,2025-05-07,chennai,branch4,Mutual Fund
+T2506,91547,7676.25,failed,2025-05-05,chennai,branch4,Loan
+T2507,20756,6177.16,success,2025-05-04,chennai,branch4,Mutual Fund
+T2508,44738,6627.27,failed,2025-05-01,chennai,branch4,Loan
+T2509,55962,8792.2,failed,2025-05-01,chennai,branch4,Loan
+T2510,95044,246.17,success,2025-05-06,chennai,branch4,Insurance
+T2511,86919,2158.51,failed,2025-05-03,chennai,branch4,Loan
+T2512,97802,4753.77,failed,2025-05-06,chennai,branch4,Insurance
+T2513,30151,9066.01,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2514,16126,6530.72,failed,2025-05-01,chennai,branch4,Savings
+T2515,63863,5502.54,failed,2025-05-06,chennai,branch4,Loan
+T2516,18116,7424.56,success,2025-05-03,chennai,branch4,Loan
+T2517,57711,2816.53,failed,2025-05-05,chennai,branch4,Loan
+T2518,30157,5199.97,success,2025-05-01,chennai,branch4,Insurance
+T2519,73217,3933.95,failed,2025-05-07,chennai,branch4,Mutual Fund
+T2520,69352,3001.3,success,2025-05-07,chennai,branch4,Insurance
+T2521,50073,9290.42,failed,2025-05-07,chennai,branch4,Mutual Fund
+T2522,68784,8568.87,success,2025-05-05,chennai,branch4,Loan
+T2523,88171,671.46,failed,2025-05-03,chennai,branch4,Savings
+T2524,35462,9825.17,success,2025-05-01,chennai,branch4,Mutual Fund
+T2525,72958,6478.0,success,2025-05-04,chennai,branch4,Insurance
+T2526,63018,2888.45,success,2025-05-07,chennai,branch4,Savings
+T2527,39177,2602.37,success,2025-05-06,chennai,branch4,Insurance
+T2528,33745,415.36,failed,2025-05-03,chennai,branch4,Insurance
+T2529,34687,7021.47,success,2025-05-06,chennai,branch4,Loan
+T2530,54427,7973.79,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2531,22927,8022.09,success,2025-05-02,chennai,branch4,Loan
+T2532,96499,6803.03,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2533,71723,5577.97,failed,2025-05-04,chennai,branch4,Savings
+T2534,95955,366.19,success,2025-05-01,chennai,branch4,Savings
+T2535,79102,780.65,failed,2025-05-06,chennai,branch4,Savings
+T2536,47733,7212.32,failed,2025-05-04,chennai,branch4,Insurance
+T2537,66751,3586.34,failed,2025-05-03,chennai,branch4,Loan
+T2538,91728,4266.07,success,2025-05-06,chennai,branch4,Insurance
+T2539,33931,7783.73,success,2025-05-01,chennai,branch4,Insurance
+T2540,55436,5199.8,success,2025-05-05,chennai,branch4,Insurance
+T2541,46588,3107.71,success,2025-05-04,chennai,branch4,Loan
+T2542,61417,148.14,failed,2025-05-07,chennai,branch4,Savings
+T2543,66315,8628.48,failed,2025-05-01,chennai,branch4,Insurance
+T2544,16597,8435.18,success,2025-05-05,chennai,branch4,Savings
+T2545,52015,9356.36,success,2025-05-02,chennai,branch4,Mutual Fund
+T2546,91448,7724.39,failed,2025-05-07,chennai,branch4,Insurance
+T2547,83685,8018.09,success,2025-05-06,chennai,branch4,Mutual Fund
+T2548,70298,3815.44,failed,2025-05-06,chennai,branch4,Loan
+T2549,79144,2122.58,failed,2025-05-06,chennai,branch4,Savings
+T2550,94698,5870.85,failed,2025-05-03,chennai,branch4,Mutual Fund
+T2551,18725,3408.37,failed,2025-05-07,chennai,branch4,Loan
+T2552,58397,8069.51,success,2025-05-02,chennai,branch4,Savings
+T2553,25361,3475.88,success,2025-05-03,chennai,branch4,Mutual Fund
+T2554,89759,1128.74,success,2025-05-06,chennai,branch4,Insurance
+T2555,74432,1973.37,success,2025-05-01,chennai,branch4,Savings
+T2556,90176,5369.08,success,2025-05-07,chennai,branch4,Mutual Fund
+T2557,55450,8575.87,success,2025-05-01,chennai,branch4,Savings
+T2558,18795,2192.07,success,2025-05-02,chennai,branch4,Insurance
+T2559,80969,5990.67,failed,2025-05-07,chennai,branch4,Mutual Fund
+T2560,52952,3983.55,success,2025-05-02,chennai,branch4,Loan
+T2561,10589,7959.9,success,2025-05-03,chennai,branch4,Mutual Fund
+T2562,53409,4410.61,failed,2025-05-05,chennai,branch4,Loan
+T2563,56040,1962.13,failed,2025-05-06,chennai,branch4,Loan
+T2564,73510,3352.66,success,2025-05-03,chennai,branch4,Savings
+T2565,48960,6283.11,success,2025-05-06,chennai,branch4,Mutual Fund
+T2566,56659,447.22,failed,2025-05-07,chennai,branch4,Insurance
+T2567,72166,9445.85,failed,2025-05-07,chennai,branch4,Savings
+T2568,83131,3122.52,success,2025-05-06,chennai,branch4,Savings
+T2569,26746,8746.65,success,2025-05-07,chennai,branch4,Savings
+T2570,15839,6652.88,success,2025-05-02,chennai,branch4,Loan
+T2571,47484,6071.6,success,2025-05-07,chennai,branch4,Insurance
+T2572,72564,7754.05,success,2025-05-05,chennai,branch4,Mutual Fund
+T2573,28322,5907.07,success,2025-05-04,chennai,branch4,Savings
+T2574,45085,9100.2,failed,2025-05-07,chennai,branch4,Savings
+T2575,96354,3889.6,failed,2025-05-01,chennai,branch4,Savings
+T2576,39323,9861.01,failed,2025-05-01,chennai,branch4,Mutual Fund
+T2577,46687,9228.61,success,2025-05-04,chennai,branch4,Savings
+T2578,91228,8763.58,failed,2025-05-04,chennai,branch4,Insurance
+T2579,39693,692.05,success,2025-05-03,chennai,branch4,Savings
+T2580,39272,7298.99,failed,2025-05-07,chennai,branch4,Savings
+T2581,40220,641.35,success,2025-05-04,chennai,branch4,Mutual Fund
+T2582,83388,5995.63,failed,2025-05-03,chennai,branch4,Loan
+T2583,95954,4782.51,failed,2025-05-05,chennai,branch4,Mutual Fund
+T2584,58609,1173.46,success,2025-05-03,chennai,branch4,Insurance
+T2585,52276,1551.51,failed,2025-05-06,chennai,branch4,Insurance
+T2586,10458,335.08,success,2025-05-06,chennai,branch4,Insurance
+T2587,52762,8118.62,success,2025-05-04,chennai,branch4,Savings
+T2588,23633,2484.71,success,2025-05-07,chennai,branch4,Mutual Fund
+T2589,76428,5014.73,failed,2025-05-02,chennai,branch4,Savings
+T2590,55924,9902.7,success,2025-05-06,chennai,branch4,Insurance
+T2591,87754,337.94,failed,2025-05-04,chennai,branch4,Mutual Fund
+T2592,73504,9455.88,failed,2025-05-05,chennai,branch4,Loan
+T2593,60682,3982.22,failed,2025-05-06,chennai,branch4,Mutual Fund
+T2594,14430,4693.32,success,2025-05-03,chennai,branch4,Insurance
+T2595,17096,5099.83,failed,2025-05-03,chennai,branch4,Mutual Fund
+T2596,94520,5452.51,success,2025-05-03,chennai,branch4,Loan
+T2597,67172,4009.08,success,2025-05-01,chennai,branch4,Insurance
+T2598,89770,777.07,success,2025-05-01,chennai,branch4,Insurance
+T2599,32675,4164.38,failed,2025-05-03,chennai,branch4,Loan

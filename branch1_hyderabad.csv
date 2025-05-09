@@ -1,0 +1,401 @@
+txn_id,account_no,amount,status,date,city,branch_name,product
+T5000,34931,5490.75,success,2025-05-04,hyderabad,branch1,Savings
+T5001,94595,7363.4,success,2025-05-04,hyderabad,branch1,Insurance
+T5002,84602,5867.03,success,2025-05-02,hyderabad,branch1,Loan
+T5003,49575,3784.68,success,2025-05-06,hyderabad,branch1,Mutual Fund
+T5004,60785,6254.11,success,2025-05-02,hyderabad,branch1,Mutual Fund
+T5005,43479,8635.4,success,2025-05-03,hyderabad,branch1,Loan
+T5006,93927,797.86,success,2025-05-02,hyderabad,branch1,Insurance
+T5007,41674,6395.8,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5008,53527,4379.71,failed,2025-05-01,hyderabad,branch1,Insurance
+T5009,72809,3677.93,success,2025-05-03,hyderabad,branch1,Mutual Fund
+T5010,27672,5899.72,failed,2025-05-07,hyderabad,branch1,Loan
+T5011,70115,7955.36,failed,2025-05-06,hyderabad,branch1,Savings
+T5012,21255,2990.95,failed,2025-05-02,hyderabad,branch1,Insurance
+T5013,87155,3996.87,failed,2025-05-01,hyderabad,branch1,Savings
+T5014,33676,8572.7,success,2025-05-06,hyderabad,branch1,Mutual Fund
+T5015,82023,6361.1,failed,2025-05-02,hyderabad,branch1,Loan
+T5016,98197,3985.81,success,2025-05-04,hyderabad,branch1,Insurance
+T5017,76839,4857.79,failed,2025-05-02,hyderabad,branch1,Mutual Fund
+T5018,22862,3225.6,success,2025-05-07,hyderabad,branch1,Savings
+T5019,60662,8819.66,success,2025-05-03,hyderabad,branch1,Savings
+T5020,48273,1381.09,success,2025-05-05,hyderabad,branch1,Savings
+T5021,27071,1517.78,failed,2025-05-05,hyderabad,branch1,Insurance
+T5022,72470,7198.3,success,2025-05-05,hyderabad,branch1,Insurance
+T5023,15628,9674.66,success,2025-05-01,hyderabad,branch1,Insurance
+T5024,83264,258.65,failed,2025-05-01,hyderabad,branch1,Insurance
+T5025,19772,1904.59,success,2025-05-02,hyderabad,branch1,Insurance
+T5026,17753,6708.05,failed,2025-05-03,hyderabad,branch1,Savings
+T5027,91685,3963.06,failed,2025-05-07,hyderabad,branch1,Insurance
+T5028,36545,7439.47,success,2025-05-03,hyderabad,branch1,Mutual Fund
+T5029,92189,4188.73,failed,2025-05-03,hyderabad,branch1,Insurance
+T5030,94980,8713.53,failed,2025-05-07,hyderabad,branch1,Savings
+T5031,95415,3973.72,success,2025-05-01,hyderabad,branch1,Insurance
+T5032,52357,1449.51,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5033,12121,8448.81,success,2025-05-01,hyderabad,branch1,Savings
+T5034,16647,3428.55,success,2025-05-04,hyderabad,branch1,Mutual Fund
+T5035,88660,3296.67,failed,2025-05-01,hyderabad,branch1,Insurance
+T5036,83289,2714.35,failed,2025-05-02,hyderabad,branch1,Insurance
+T5037,96589,4229.35,failed,2025-05-03,hyderabad,branch1,Mutual Fund
+T5038,68172,3169.15,failed,2025-05-04,hyderabad,branch1,Mutual Fund
+T5039,67593,699.07,failed,2025-05-04,hyderabad,branch1,Insurance
+T5040,40023,7922.05,success,2025-05-05,hyderabad,branch1,Loan
+T5041,22465,2310.73,success,2025-05-01,hyderabad,branch1,Loan
+T5042,30276,7629.61,failed,2025-05-06,hyderabad,branch1,Insurance
+T5043,13873,553.88,success,2025-05-02,hyderabad,branch1,Savings
+T5044,94716,967.56,failed,2025-05-02,hyderabad,branch1,Insurance
+T5045,15109,2563.94,failed,2025-05-03,hyderabad,branch1,Savings
+T5046,21422,6637.76,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5047,36194,1395.68,failed,2025-05-01,hyderabad,branch1,Mutual Fund
+T5048,59505,9182.5,failed,2025-05-04,hyderabad,branch1,Insurance
+T5049,14685,8908.18,failed,2025-05-06,hyderabad,branch1,Loan
+T5050,84935,8191.59,failed,2025-05-03,hyderabad,branch1,Insurance
+T5051,88160,2830.42,failed,2025-05-05,hyderabad,branch1,Loan
+T5052,27186,186.26,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5053,23714,7749.92,failed,2025-05-03,hyderabad,branch1,Insurance
+T5054,35992,3460.22,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5055,41637,1436.63,failed,2025-05-04,hyderabad,branch1,Savings
+T5056,48582,1902.58,success,2025-05-04,hyderabad,branch1,Savings
+T5057,97151,8569.44,success,2025-05-06,hyderabad,branch1,Loan
+T5058,12852,1139.23,success,2025-05-03,hyderabad,branch1,Loan
+T5059,63903,1216.71,failed,2025-05-07,hyderabad,branch1,Savings
+T5060,24149,7395.91,success,2025-05-02,hyderabad,branch1,Mutual Fund
+T5061,13456,7084.67,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5062,18489,729.56,failed,2025-05-05,hyderabad,branch1,Savings
+T5063,62044,2868.6,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5064,51113,5255.29,failed,2025-05-03,hyderabad,branch1,Savings
+T5065,10241,1894.91,success,2025-05-05,hyderabad,branch1,Loan
+T5066,62295,6206.03,failed,2025-05-03,hyderabad,branch1,Insurance
+T5067,26993,6526.78,failed,2025-05-03,hyderabad,branch1,Savings
+T5068,52656,1486.95,failed,2025-05-03,hyderabad,branch1,Mutual Fund
+T5069,26626,8573.3,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5070,77218,3568.05,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5071,80367,9422.29,success,2025-05-01,hyderabad,branch1,Insurance
+T5072,79044,1201.08,success,2025-05-02,hyderabad,branch1,Mutual Fund
+T5073,54573,3825.86,failed,2025-05-03,hyderabad,branch1,Insurance
+T5074,92066,9036.4,failed,2025-05-02,hyderabad,branch1,Loan
+T5075,78933,9405.32,success,2025-05-04,hyderabad,branch1,Savings
+T5076,86091,8780.32,failed,2025-05-07,hyderabad,branch1,Savings
+T5077,94522,8946.46,success,2025-05-02,hyderabad,branch1,Insurance
+T5078,95316,2419.98,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5079,80666,3420.2,failed,2025-05-05,hyderabad,branch1,Savings
+T5080,73004,354.84,failed,2025-05-02,hyderabad,branch1,Insurance
+T5081,90228,7614.46,success,2025-05-06,hyderabad,branch1,Insurance
+T5082,26514,1476.54,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5083,69906,2557.3,failed,2025-05-07,hyderabad,branch1,Savings
+T5084,69236,1311.2,failed,2025-05-03,hyderabad,branch1,Loan
+T5085,81815,5395.39,success,2025-05-03,hyderabad,branch1,Loan
+T5086,57456,5069.2,success,2025-05-01,hyderabad,branch1,Loan
+T5087,81666,3481.92,failed,2025-05-05,hyderabad,branch1,Loan
+T5088,60109,4842.93,failed,2025-05-02,hyderabad,branch1,Loan
+T5089,30998,3901.63,failed,2025-05-03,hyderabad,branch1,Loan
+T5090,41781,3257.8,success,2025-05-04,hyderabad,branch1,Mutual Fund
+T5091,48811,7310.32,failed,2025-05-04,hyderabad,branch1,Loan
+T5092,42733,4958.28,success,2025-05-04,hyderabad,branch1,Insurance
+T5093,83184,7581.38,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5094,15330,1142.29,failed,2025-05-01,hyderabad,branch1,Insurance
+T5095,21923,6336.28,failed,2025-05-01,hyderabad,branch1,Insurance
+T5096,78649,4148.7,success,2025-05-04,hyderabad,branch1,Savings
+T5097,80818,3769.48,success,2025-05-01,hyderabad,branch1,Insurance
+T5098,77874,9718.03,success,2025-05-05,hyderabad,branch1,Loan
+T5099,21607,9833.15,success,2025-05-03,hyderabad,branch1,Savings
+T5100,54286,7677.99,success,2025-05-01,hyderabad,branch1,Mutual Fund
+T5101,92040,4745.24,failed,2025-05-03,hyderabad,branch1,Insurance
+T5102,67794,5295.32,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5103,47873,2959.59,failed,2025-05-07,hyderabad,branch1,Mutual Fund
+T5104,27765,8083.1,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5105,24905,9002.48,success,2025-05-01,hyderabad,branch1,Insurance
+T5106,54939,2565.79,failed,2025-05-07,hyderabad,branch1,Loan
+T5107,25427,5901.77,failed,2025-05-07,hyderabad,branch1,Loan
+T5108,27120,5735.11,failed,2025-05-02,hyderabad,branch1,Loan
+T5109,82839,739.0,success,2025-05-04,hyderabad,branch1,Mutual Fund
+T5110,65236,3147.29,success,2025-05-01,hyderabad,branch1,Savings
+T5111,96736,2293.82,failed,2025-05-04,hyderabad,branch1,Savings
+T5112,18973,7619.86,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5113,49251,6862.63,success,2025-05-02,hyderabad,branch1,Mutual Fund
+T5114,33367,5533.58,failed,2025-05-03,hyderabad,branch1,Mutual Fund
+T5115,58384,2016.69,failed,2025-05-03,hyderabad,branch1,Loan
+T5116,72503,1246.15,failed,2025-05-01,hyderabad,branch1,Savings
+T5117,38792,2874.25,success,2025-05-02,hyderabad,branch1,Savings
+T5118,58981,5827.3,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5119,75258,6194.01,failed,2025-05-03,hyderabad,branch1,Insurance
+T5120,15864,5924.45,success,2025-05-04,hyderabad,branch1,Mutual Fund
+T5121,40724,1743.17,failed,2025-05-06,hyderabad,branch1,Loan
+T5122,42388,6420.19,success,2025-05-04,hyderabad,branch1,Mutual Fund
+T5123,91314,9724.73,success,2025-05-03,hyderabad,branch1,Savings
+T5124,53242,8407.72,failed,2025-05-07,hyderabad,branch1,Savings
+T5125,76359,4759.18,failed,2025-05-06,hyderabad,branch1,Savings
+T5126,52744,4126.58,success,2025-05-02,hyderabad,branch1,Mutual Fund
+T5127,94318,5193.5,failed,2025-05-05,hyderabad,branch1,Insurance
+T5128,92048,8429.48,success,2025-05-06,hyderabad,branch1,Insurance
+T5129,70087,3231.44,success,2025-05-03,hyderabad,branch1,Mutual Fund
+T5130,47014,6460.97,success,2025-05-06,hyderabad,branch1,Insurance
+T5131,61356,3066.5,success,2025-05-04,hyderabad,branch1,Savings
+T5132,93987,1904.37,failed,2025-05-06,hyderabad,branch1,Loan
+T5133,31631,5172.2,failed,2025-05-01,hyderabad,branch1,Insurance
+T5134,98382,6953.48,success,2025-05-01,hyderabad,branch1,Savings
+T5135,69046,4805.52,success,2025-05-03,hyderabad,branch1,Savings
+T5136,87392,3121.54,failed,2025-05-06,hyderabad,branch1,Insurance
+T5137,13540,1129.96,failed,2025-05-07,hyderabad,branch1,Insurance
+T5138,56811,3838.38,success,2025-05-07,hyderabad,branch1,Savings
+T5139,82241,6432.32,success,2025-05-03,hyderabad,branch1,Mutual Fund
+T5140,59012,7412.94,failed,2025-05-07,hyderabad,branch1,Mutual Fund
+T5141,77211,1374.93,success,2025-05-06,hyderabad,branch1,Insurance
+T5142,23032,2086.8,failed,2025-05-01,hyderabad,branch1,Savings
+T5143,50138,2197.15,success,2025-05-06,hyderabad,branch1,Loan
+T5144,66836,1008.79,success,2025-05-04,hyderabad,branch1,Savings
+T5145,95430,6145.75,failed,2025-05-06,hyderabad,branch1,Insurance
+T5146,10321,8972.2,success,2025-05-01,hyderabad,branch1,Loan
+T5147,66872,6781.92,success,2025-05-03,hyderabad,branch1,Mutual Fund
+T5148,59819,9174.66,success,2025-05-01,hyderabad,branch1,Savings
+T5149,51665,6975.35,failed,2025-05-06,hyderabad,branch1,Insurance
+T5150,62493,9304.18,success,2025-05-04,hyderabad,branch1,Savings
+T5151,22213,3949.18,failed,2025-05-06,hyderabad,branch1,Insurance
+T5152,83278,1517.88,failed,2025-05-05,hyderabad,branch1,Loan
+T5153,35327,4015.95,success,2025-05-03,hyderabad,branch1,Savings
+T5154,11513,2341.15,failed,2025-05-01,hyderabad,branch1,Insurance
+T5155,29632,256.1,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5156,29640,9466.78,failed,2025-05-04,hyderabad,branch1,Loan
+T5157,41015,9146.7,failed,2025-05-03,hyderabad,branch1,Loan
+T5158,36891,4558.25,failed,2025-05-02,hyderabad,branch1,Mutual Fund
+T5159,43002,369.17,failed,2025-05-01,hyderabad,branch1,Loan
+T5160,36377,1886.4,failed,2025-05-06,hyderabad,branch1,Insurance
+T5161,22972,192.97,success,2025-05-03,hyderabad,branch1,Insurance
+T5162,10711,2864.31,failed,2025-05-06,hyderabad,branch1,Insurance
+T5163,40568,4990.58,failed,2025-05-07,hyderabad,branch1,Mutual Fund
+T5164,58496,2417.53,success,2025-05-04,hyderabad,branch1,Savings
+T5165,22782,1854.08,success,2025-05-04,hyderabad,branch1,Savings
+T5166,45855,7190.48,success,2025-05-06,hyderabad,branch1,Insurance
+T5167,31096,122.44,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5168,54647,5473.25,success,2025-05-06,hyderabad,branch1,Loan
+T5169,40639,1259.81,failed,2025-05-02,hyderabad,branch1,Savings
+T5170,74923,8850.9,failed,2025-05-03,hyderabad,branch1,Savings
+T5171,42471,3943.07,failed,2025-05-06,hyderabad,branch1,Savings
+T5172,20754,3540.75,failed,2025-05-05,hyderabad,branch1,Loan
+T5173,11759,6808.49,success,2025-05-06,hyderabad,branch1,Savings
+T5174,20364,7893.11,success,2025-05-04,hyderabad,branch1,Loan
+T5175,44592,7132.6,success,2025-05-03,hyderabad,branch1,Loan
+T5176,16178,6585.63,failed,2025-05-02,hyderabad,branch1,Loan
+T5177,84447,1699.87,success,2025-05-03,hyderabad,branch1,Loan
+T5178,28939,8819.69,failed,2025-05-04,hyderabad,branch1,Mutual Fund
+T5179,52173,6464.22,success,2025-05-04,hyderabad,branch1,Mutual Fund
+T5180,59411,5140.64,failed,2025-05-04,hyderabad,branch1,Loan
+T5181,27610,7560.51,success,2025-05-06,hyderabad,branch1,Mutual Fund
+T5182,89025,5761.26,failed,2025-05-07,hyderabad,branch1,Insurance
+T5183,15956,2031.68,success,2025-05-05,hyderabad,branch1,Loan
+T5184,41031,9059.63,success,2025-05-01,hyderabad,branch1,Loan
+T5185,46704,4298.67,success,2025-05-06,hyderabad,branch1,Loan
+T5186,69707,8279.09,failed,2025-05-06,hyderabad,branch1,Savings
+T5187,15907,9161.02,failed,2025-05-01,hyderabad,branch1,Loan
+T5188,65801,8753.86,failed,2025-05-07,hyderabad,branch1,Loan
+T5189,94049,7177.19,failed,2025-05-04,hyderabad,branch1,Mutual Fund
+T5190,15301,4360.5,failed,2025-05-02,hyderabad,branch1,Loan
+T5191,48256,2729.68,success,2025-05-05,hyderabad,branch1,Loan
+T5192,81097,5298.68,failed,2025-05-04,hyderabad,branch1,Insurance
+T5193,75468,5291.02,failed,2025-05-06,hyderabad,branch1,Savings
+T5194,44651,6049.56,success,2025-05-02,hyderabad,branch1,Insurance
+T5195,61984,8096.81,success,2025-05-04,hyderabad,branch1,Loan
+T5196,56048,503.36,failed,2025-05-05,hyderabad,branch1,Loan
+T5197,25429,4367.98,success,2025-05-03,hyderabad,branch1,Insurance
+T5198,59899,3839.44,success,2025-05-06,hyderabad,branch1,Mutual Fund
+T5199,10686,7161.4,success,2025-05-03,hyderabad,branch1,Savings
+T5200,46670,2968.66,success,2025-05-02,hyderabad,branch1,Loan
+T5201,72093,8769.58,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5202,96277,3991.84,failed,2025-05-07,hyderabad,branch1,Insurance
+T5203,23304,9387.81,success,2025-05-07,hyderabad,branch1,Loan
+T5204,47472,3846.75,failed,2025-05-06,hyderabad,branch1,Insurance
+T5205,64464,1533.46,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5206,88640,2880.71,failed,2025-05-03,hyderabad,branch1,Savings
+T5207,70128,9324.35,failed,2025-05-02,hyderabad,branch1,Insurance
+T5208,21703,3651.88,success,2025-05-01,hyderabad,branch1,Mutual Fund
+T5209,68551,1208.62,failed,2025-05-07,hyderabad,branch1,Savings
+T5210,68846,8466.36,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5211,73045,6169.73,success,2025-05-02,hyderabad,branch1,Loan
+T5212,91714,1022.43,success,2025-05-02,hyderabad,branch1,Loan
+T5213,53528,7019.55,failed,2025-05-04,hyderabad,branch1,Insurance
+T5214,10403,6656.84,success,2025-05-04,hyderabad,branch1,Savings
+T5215,29419,7871.53,failed,2025-05-02,hyderabad,branch1,Mutual Fund
+T5216,72759,8384.4,failed,2025-05-06,hyderabad,branch1,Insurance
+T5217,49788,1350.68,failed,2025-05-04,hyderabad,branch1,Loan
+T5218,43838,6206.07,failed,2025-05-01,hyderabad,branch1,Mutual Fund
+T5219,84632,2326.01,failed,2025-05-02,hyderabad,branch1,Mutual Fund
+T5220,12032,7068.0,success,2025-05-07,hyderabad,branch1,Loan
+T5221,46888,7172.2,success,2025-05-06,hyderabad,branch1,Mutual Fund
+T5222,33738,5506.82,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5223,44840,234.15,success,2025-05-01,hyderabad,branch1,Loan
+T5224,36080,7993.74,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5225,94360,4368.75,failed,2025-05-06,hyderabad,branch1,Loan
+T5226,33468,772.84,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5227,61981,6392.88,success,2025-05-04,hyderabad,branch1,Insurance
+T5228,78213,7207.93,success,2025-05-03,hyderabad,branch1,Mutual Fund
+T5229,91711,3912.79,success,2025-05-05,hyderabad,branch1,Savings
+T5230,38706,4463.99,failed,2025-05-02,hyderabad,branch1,Insurance
+T5231,75597,5315.93,success,2025-05-02,hyderabad,branch1,Insurance
+T5232,16300,6905.21,failed,2025-05-07,hyderabad,branch1,Mutual Fund
+T5233,50980,7752.56,failed,2025-05-02,hyderabad,branch1,Loan
+T5234,51579,7312.92,failed,2025-05-03,hyderabad,branch1,Loan
+T5235,38872,6092.98,failed,2025-05-04,hyderabad,branch1,Loan
+T5236,21451,1145.17,failed,2025-05-07,hyderabad,branch1,Mutual Fund
+T5237,51817,6169.96,success,2025-05-07,hyderabad,branch1,Loan
+T5238,76953,1645.89,success,2025-05-04,hyderabad,branch1,Insurance
+T5239,83584,9562.05,failed,2025-05-05,hyderabad,branch1,Savings
+T5240,99712,6333.8,failed,2025-05-03,hyderabad,branch1,Savings
+T5241,20450,5739.32,success,2025-05-03,hyderabad,branch1,Loan
+T5242,20920,4981.19,success,2025-05-04,hyderabad,branch1,Loan
+T5243,53647,5291.01,success,2025-05-06,hyderabad,branch1,Loan
+T5244,84456,925.53,success,2025-05-07,hyderabad,branch1,Loan
+T5245,68320,6274.48,failed,2025-05-04,hyderabad,branch1,Loan
+T5246,97307,4966.31,failed,2025-05-01,hyderabad,branch1,Loan
+T5247,20670,508.16,failed,2025-05-03,hyderabad,branch1,Loan
+T5248,25362,475.28,success,2025-05-02,hyderabad,branch1,Insurance
+T5249,39869,9659.16,success,2025-05-07,hyderabad,branch1,Insurance
+T5250,90968,2213.0,failed,2025-05-06,hyderabad,branch1,Savings
+T5251,66186,1659.83,failed,2025-05-02,hyderabad,branch1,Loan
+T5252,27830,4643.96,success,2025-05-01,hyderabad,branch1,Loan
+T5253,22821,8047.02,failed,2025-05-02,hyderabad,branch1,Savings
+T5254,73910,656.72,failed,2025-05-03,hyderabad,branch1,Loan
+T5255,91663,8056.15,success,2025-05-01,hyderabad,branch1,Insurance
+T5256,57998,1906.18,success,2025-05-03,hyderabad,branch1,Insurance
+T5257,53588,9302.27,failed,2025-05-04,hyderabad,branch1,Insurance
+T5258,41942,1688.74,failed,2025-05-04,hyderabad,branch1,Insurance
+T5259,29096,175.75,failed,2025-05-07,hyderabad,branch1,Savings
+T5260,93465,5813.41,success,2025-05-05,hyderabad,branch1,Loan
+T5261,85301,5113.69,failed,2025-05-07,hyderabad,branch1,Insurance
+T5262,24084,3102.52,success,2025-05-06,hyderabad,branch1,Insurance
+T5263,85130,2046.15,failed,2025-05-01,hyderabad,branch1,Loan
+T5264,57436,8616.45,success,2025-05-07,hyderabad,branch1,Loan
+T5265,48253,1120.27,failed,2025-05-03,hyderabad,branch1,Insurance
+T5266,44509,158.65,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5267,38805,4907.23,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5268,61116,7600.31,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5269,81199,7930.96,failed,2025-05-07,hyderabad,branch1,Loan
+T5270,89503,6331.4,failed,2025-05-01,hyderabad,branch1,Mutual Fund
+T5271,38464,6942.93,failed,2025-05-03,hyderabad,branch1,Savings
+T5272,60351,9148.84,failed,2025-05-05,hyderabad,branch1,Insurance
+T5273,65678,954.62,failed,2025-05-03,hyderabad,branch1,Mutual Fund
+T5274,82003,1262.12,failed,2025-05-01,hyderabad,branch1,Savings
+T5275,13026,7111.29,success,2025-05-04,hyderabad,branch1,Loan
+T5276,97315,9584.16,failed,2025-05-02,hyderabad,branch1,Insurance
+T5277,32346,8267.24,success,2025-05-03,hyderabad,branch1,Savings
+T5278,60804,1703.0,success,2025-05-01,hyderabad,branch1,Insurance
+T5279,76426,5665.62,failed,2025-05-02,hyderabad,branch1,Insurance
+T5280,53168,7545.03,success,2025-05-04,hyderabad,branch1,Savings
+T5281,23311,9473.47,success,2025-05-01,hyderabad,branch1,Mutual Fund
+T5282,49720,9342.47,success,2025-05-05,hyderabad,branch1,Loan
+T5283,41623,5701.27,success,2025-05-02,hyderabad,branch1,Insurance
+T5284,81177,5263.81,success,2025-05-01,hyderabad,branch1,Savings
+T5285,62647,6746.31,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5286,44388,7188.11,success,2025-05-04,hyderabad,branch1,Insurance
+T5287,29373,8595.95,failed,2025-05-06,hyderabad,branch1,Loan
+T5288,84942,109.05,failed,2025-05-06,hyderabad,branch1,Savings
+T5289,81922,3341.44,success,2025-05-05,hyderabad,branch1,Savings
+T5290,86560,585.62,failed,2025-05-04,hyderabad,branch1,Loan
+T5291,88955,6495.95,failed,2025-05-06,hyderabad,branch1,Loan
+T5292,17643,2046.43,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5293,28186,4588.3,success,2025-05-04,hyderabad,branch1,Insurance
+T5294,53380,2883.06,failed,2025-05-03,hyderabad,branch1,Savings
+T5295,33265,7710.02,success,2025-05-07,hyderabad,branch1,Loan
+T5296,12457,3873.26,failed,2025-05-07,hyderabad,branch1,Savings
+T5297,62095,2451.37,failed,2025-05-02,hyderabad,branch1,Mutual Fund
+T5298,49009,9003.31,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5299,35823,6277.86,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5300,20948,3849.65,success,2025-05-07,hyderabad,branch1,Insurance
+T5301,11392,6505.49,success,2025-05-07,hyderabad,branch1,Savings
+T5302,58701,114.13,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5303,49623,4979.54,success,2025-05-04,hyderabad,branch1,Savings
+T5304,11226,8157.79,success,2025-05-04,hyderabad,branch1,Savings
+T5305,56575,5976.11,failed,2025-05-06,hyderabad,branch1,Loan
+T5306,86828,5026.66,success,2025-05-06,hyderabad,branch1,Mutual Fund
+T5307,22165,9726.82,success,2025-05-01,hyderabad,branch1,Insurance
+T5308,25747,2146.65,success,2025-05-03,hyderabad,branch1,Savings
+T5309,32643,3779.25,success,2025-05-01,hyderabad,branch1,Savings
+T5310,85186,2509.89,failed,2025-05-03,hyderabad,branch1,Mutual Fund
+T5311,24103,1659.95,success,2025-05-06,hyderabad,branch1,Savings
+T5312,22391,5454.73,success,2025-05-03,hyderabad,branch1,Mutual Fund
+T5313,48836,763.15,failed,2025-05-04,hyderabad,branch1,Savings
+T5314,32240,9605.2,success,2025-05-02,hyderabad,branch1,Savings
+T5315,52692,7673.88,failed,2025-05-03,hyderabad,branch1,Loan
+T5316,36712,5193.81,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5317,58025,6672.47,success,2025-05-07,hyderabad,branch1,Insurance
+T5318,22376,1798.13,failed,2025-05-01,hyderabad,branch1,Savings
+T5319,31803,8196.81,success,2025-05-06,hyderabad,branch1,Savings
+T5320,69841,144.16,failed,2025-05-03,hyderabad,branch1,Savings
+T5321,55137,815.71,success,2025-05-04,hyderabad,branch1,Loan
+T5322,10753,7721.69,success,2025-05-06,hyderabad,branch1,Mutual Fund
+T5323,22044,2374.85,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5324,49736,3613.74,failed,2025-05-07,hyderabad,branch1,Mutual Fund
+T5325,86986,5961.67,success,2025-05-05,hyderabad,branch1,Loan
+T5326,52336,9009.04,failed,2025-05-06,hyderabad,branch1,Savings
+T5327,39840,7571.31,success,2025-05-05,hyderabad,branch1,Savings
+T5328,59274,2003.34,failed,2025-05-04,hyderabad,branch1,Insurance
+T5329,52741,2538.71,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5330,40304,1858.72,failed,2025-05-02,hyderabad,branch1,Savings
+T5331,66982,9925.48,failed,2025-05-03,hyderabad,branch1,Savings
+T5332,10926,4714.52,success,2025-05-06,hyderabad,branch1,Insurance
+T5333,50060,1762.15,failed,2025-05-06,hyderabad,branch1,Loan
+T5334,50173,3235.28,failed,2025-05-03,hyderabad,branch1,Loan
+T5335,49894,3721.03,success,2025-05-04,hyderabad,branch1,Loan
+T5336,44981,886.42,failed,2025-05-03,hyderabad,branch1,Savings
+T5337,95543,8784.24,failed,2025-05-05,hyderabad,branch1,Insurance
+T5338,85536,4986.8,success,2025-05-01,hyderabad,branch1,Mutual Fund
+T5339,70856,2533.29,success,2025-05-07,hyderabad,branch1,Insurance
+T5340,12918,537.71,success,2025-05-03,hyderabad,branch1,Savings
+T5341,29383,6974.18,success,2025-05-01,hyderabad,branch1,Loan
+T5342,53187,7324.38,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5343,60381,7692.08,success,2025-05-02,hyderabad,branch1,Mutual Fund
+T5344,66055,1554.34,success,2025-05-02,hyderabad,branch1,Savings
+T5345,53803,6041.69,failed,2025-05-04,hyderabad,branch1,Mutual Fund
+T5346,41387,5206.84,failed,2025-05-03,hyderabad,branch1,Loan
+T5347,41312,5522.49,success,2025-05-02,hyderabad,branch1,Insurance
+T5348,88070,3977.85,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5349,42592,8737.79,success,2025-05-04,hyderabad,branch1,Savings
+T5350,85095,4559.76,failed,2025-05-04,hyderabad,branch1,Insurance
+T5351,91435,1647.47,success,2025-05-05,hyderabad,branch1,Loan
+T5352,51685,3138.31,success,2025-05-02,hyderabad,branch1,Loan
+T5353,89473,5270.64,failed,2025-05-05,hyderabad,branch1,Mutual Fund
+T5354,42183,4911.8,success,2025-05-06,hyderabad,branch1,Loan
+T5355,96716,3605.74,success,2025-05-06,hyderabad,branch1,Savings
+T5356,54410,176.92,failed,2025-05-06,hyderabad,branch1,Savings
+T5357,89559,5666.8,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5358,40979,8735.01,success,2025-05-05,hyderabad,branch1,Loan
+T5359,79379,2561.14,success,2025-05-05,hyderabad,branch1,Insurance
+T5360,68838,1819.38,failed,2025-05-07,hyderabad,branch1,Mutual Fund
+T5361,18127,2488.4,success,2025-05-06,hyderabad,branch1,Savings
+T5362,93565,2870.12,success,2025-05-06,hyderabad,branch1,Mutual Fund
+T5363,33927,7780.46,success,2025-05-04,hyderabad,branch1,Loan
+T5364,59877,9210.8,success,2025-05-02,hyderabad,branch1,Loan
+T5365,23914,948.47,success,2025-05-07,hyderabad,branch1,Mutual Fund
+T5366,13277,4801.34,failed,2025-05-05,hyderabad,branch1,Insurance
+T5367,95966,7099.95,failed,2025-05-04,hyderabad,branch1,Mutual Fund
+T5368,52967,2251.98,failed,2025-05-06,hyderabad,branch1,Mutual Fund
+T5369,51749,4925.99,success,2025-05-05,hyderabad,branch1,Mutual Fund
+T5370,47022,2284.77,failed,2025-05-04,hyderabad,branch1,Mutual Fund
+T5371,35309,1446.04,success,2025-05-01,hyderabad,branch1,Savings
+T5372,71550,9981.09,failed,2025-05-07,hyderabad,branch1,Insurance
+T5373,55538,4113.15,success,2025-05-02,hyderabad,branch1,Insurance
+T5374,12987,2597.34,success,2025-05-04,hyderabad,branch1,Loan
+T5375,47833,522.79,success,2025-05-01,hyderabad,branch1,Savings
+T5376,59448,161.07,failed,2025-05-05,hyderabad,branch1,Savings
+T5377,46118,6902.65,success,2025-05-01,hyderabad,branch1,Insurance
+T5378,52212,2960.89,failed,2025-05-05,hyderabad,branch1,Insurance
+T5379,89666,5193.89,failed,2025-05-07,hyderabad,branch1,Mutual Fund
+T5380,52668,3349.85,failed,2025-05-01,hyderabad,branch1,Loan
+T5381,97150,6441.25,success,2025-05-03,hyderabad,branch1,Insurance
+T5382,55382,8975.66,success,2025-05-01,hyderabad,branch1,Loan
+T5383,51051,3866.88,failed,2025-05-01,hyderabad,branch1,Insurance
+T5384,71118,2189.03,failed,2025-05-03,hyderabad,branch1,Loan
+T5385,30638,6124.28,success,2025-05-04,hyderabad,branch1,Insurance
+T5386,88038,8476.55,success,2025-05-07,hyderabad,branch1,Savings
+T5387,73087,7427.12,failed,2025-05-01,hyderabad,branch1,Mutual Fund
+T5388,98278,5805.44,success,2025-05-02,hyderabad,branch1,Loan
+T5389,73208,6339.02,success,2025-05-07,hyderabad,branch1,Insurance
+T5390,26363,7846.09,success,2025-05-04,hyderabad,branch1,Mutual Fund
+T5391,21350,4322.9,failed,2025-05-06,hyderabad,branch1,Insurance
+T5392,26440,8837.35,success,2025-05-03,hyderabad,branch1,Savings
+T5393,34073,4245.72,success,2025-05-02,hyderabad,branch1,Savings
+T5394,22441,4641.12,success,2025-05-03,hyderabad,branch1,Loan
+T5395,19140,705.47,success,2025-05-07,hyderabad,branch1,Savings
+T5396,67268,3279.24,success,2025-05-01,hyderabad,branch1,Savings
+T5397,16872,7994.03,failed,2025-05-01,hyderabad,branch1,Mutual Fund
+T5398,65687,348.34,failed,2025-05-07,hyderabad,branch1,Insurance
+T5399,22901,7348.81,success,2025-05-03,hyderabad,branch1,Savings
